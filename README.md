@@ -4,7 +4,7 @@ Cisco Packet Tracer simulation of a secure enterprise network with ROAS, DHCP, a
 # Secure Multi-VLAN Enterprise Network Simulation
 
 ## Project Overview
-This project models a production-grade enterprise network topology featuring segmented broadcast domains, automated network addressing, inter-VLAN routing, and device hardening. Designed and validated within Cisco Packet Tracer, this architecture isolates organizational traffic zones and secures internal infrastructure management pathways to adhere to strict security and compliance standards.
+This project simulates an enterprise network topology featuring segmented broadcast domains, automated IP addressing, inter-VLAN routing, and network-device hardening. The environment was designed and validated in Cisco Packet Tracer to demonstrate practical networking and security concepts.
 
 ## Network Architecture & Design
 The topology utilizes a Router-on-a-Stick (ROAS) model to route traffic across four distinct functional subnets through a single physical interface line (`Fa0/1` to `Gi0/0`).
